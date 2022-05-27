@@ -206,7 +206,7 @@ padding: 1%;
 
 /* responsive design on phone */
 
-@media(max-width: 500px){
+@media(max-width:500px){
     .top{
         flex-direction: column;
         align-items: center;
